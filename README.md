@@ -1,4 +1,2 @@
-# NotNews
-Chrome extension that alerts you when you're on a fake news site.
-
-Based on the work 'False, Misleading, Clickbait-y, and Satirical “News” Sources' by Melissa Zimdars. 
+# Fake News Detector
+Chrome extension that alerts you when you're on a fake news site. 
